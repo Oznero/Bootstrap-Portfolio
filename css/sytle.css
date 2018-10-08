@@ -1,43 +1,33 @@
-.top {
-    background: #ffffff;
-    border-bottom: 2px solid #cccccc;
-    position: relative;
-    /*height: 90px;*/
-    margin-bottom: 60px;
-}
-
-h1 {
-  font-family: 'Georgia', Times, Times New Roman, serif;
-  color: white;
-  font-size: 48px;
-}
-
-.name {
-    background: #4aaaa5;
-    text-align: center;
-    float: left;
-    margin-left: 15%;
-    line-height: 90px;
-    width: 300px;
-}
-
-nav {
-  float: right;
+.test {
   margin: auto;
-  padding-right: 15%;
-  line-height: 75px;
+  line-height: 52px;
   font-size: 19px;
   font-family: 'Georgia', Times, Times New Roman, serif;
+  background-color: #ffffff;
+  border-bottom: 2px solid #cccccc;
+  height: 90px;
+  margin-bottom: 60px;
 }
 
 nav a {
-  padding: 0px 18px 0px 10px;
   text-decoration: none;
   color: #777777;
 }
 
 nav a:hover {
   color: yellow;
+}
+
+h1 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color: white;
+  font-size: 48px;
+  line-height: 90px;
+  background: #4aaaa5;
+  text-align: center;
+  float: left;
+  margin-top: 9px;
+  width: 290px;
 }
 
 body {
